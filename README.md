@@ -7,7 +7,7 @@
 <a target="_blank" href="https://colab.research.google.com/github/StockSharp-finance/StockSharp/blob/develop/examples/googleColab.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
+ 
 ![image](https://github.com/user-attachments/assets/bda19367-faed-4c57-8c1f-4ded8119ca2a)
 
 
